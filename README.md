@@ -16,7 +16,7 @@ This project contains multiple Python scripts for processing and analyzing stude
 - [Output](#output)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Requirements](#requirements)
+- [Requirements](requirements.txt)
 - [License](LICENSE)
 
 ## File Descriptions

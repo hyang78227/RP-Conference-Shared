@@ -116,7 +116,7 @@ To run the notebooks and execute the data processing steps:
 
 
 ## License
-This project is licensed under the MIT License. See the  [MIT License](LICENSE)vfor more details.
+This project is licensed under the MIT License. See the  [License](LICENSE)vfor more details.
 
 
 ## Requirements

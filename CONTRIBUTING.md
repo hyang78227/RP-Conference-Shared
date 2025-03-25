@@ -1,4 +1,4 @@
-# Contributing to Special Admit Dashboard Project
+# Contributing to "Special Admit Dashboard Project"
 
 We love your input! We want to make contributing to this project as easy and transparent as possible. Here’s how you can help.
 

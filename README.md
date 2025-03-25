@@ -9,7 +9,7 @@ This project contains multiple Python scripts for processing and analyzing stude
   - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)
   - [RP_SpecialAdmit_Headcount_combined.ipynb](RP_SpecialAdmit_Headcount_combined.ipynb)
   - [RP_SpecialAdmit_Headcount_combined_call.ipynb](RP_SpecialAdmit_Headcount_combined_Call.ipynb)
-  - [RP_Make_SpecialAdmit_DEmos.ipynb](RP_Make_SpecialAdmit_Demos.ipynb)
+  - [RP_Make_SpecialAdmit_Demos.ipynb](RP_Make_SpecialAdmit_Demos.ipynb)
 - [Data Flow](#data-flow)
 - [Raw Data](#raw-data)
 - [Processing](#processing)
@@ -48,7 +48,7 @@ This Python script automates the execution of the other two notebooks. It runs b
 - Ensures all data is processed in the correct order.
 
 ### CDE_Data_Processing_Script.ipynb
-- [RP_Make_SpecialAdmit_DEmos.ipynb](RP_Make_SpecialAdmit_Demos.ipynb)
+- [RP_Make_SpecialAdmit_Demos.ipynb](RP_Make_SpecialAdmit_Demos.ipynb)
 - 
 This script processes the California Department of Education (CDE) data, filters, and reshapes it for use in the dashboard. It includes steps for filtering by reporting categories and school names, as well as pivoting the data from long to wide format for easier analysis.  
 **Processes California Department of Education (CDE) data:**

@@ -1,0 +1,12 @@
+## Requirements
+This project requires the following Python libraries:
+- pandas
+- openpyxl
+- nbformat
+- nbconvert
+- os
+- matplotlib (if you plan on visualizing the data)
+
+All dependencies are listed in the requirements.txt file. You can install them by running:
+```bash
+pip install -r requirements.txt

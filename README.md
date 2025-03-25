@@ -4,20 +4,20 @@
 This project contains multiple Python scripts for processing and analyzing student enrollment data related to special admit programs. The scripts are designed to clean, transform, and merge data from various sources to facilitate reporting and visualization in a dashboard.
 
 ## Table of Contents
-1. [Overview](#overview)
-2. [File Descriptions](#file-descriptions)
-    - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](#rp_specialadmit_headcount_by_highschoolipynb)
-    - [RPSpecialAdmit_Headcount_combined.ipynb](#rpspecialadmit_headcount_combinedipynb)
-    - [RP_SpecialAdmit_Headcount_combined_call.ipynb](#rp_specialadmit_headcount_combined_callipynb)
-    - [CDE_Data_Processing_Script.ipynb](#cde_data_processing_scriptipynb)
-3. [Data Flow](#data-flow)
-    - [Raw Data](#raw-data)
-    - [Processing](#processing)
-    - [Output](#output)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Requirements](#requirements)
-7. [License](#license)
+- [Overview](#overview)
+- [File Descriptions](#file-descriptions)
+  - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)
+  - [RPSpecialAdmit_Headcount_combined.ipynb](RPSpecialAdmit_Headcount_combined.ipynb)
+  - [RP_SpecialAdmit_Headcount_combined_call.ipynb](RP_SpecialAdmit_Headcount_combined_call.ipynb)
+  - [CDE_Data_Processing_Script.ipynb](CDE_Data_Processing_Script.ipynb)
+- [Data Flow](#data-flow)
+- [Raw Data](#raw-data)
+- [Processing](#processing)
+- [Output](#output)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Requirements](#requirements)
+- [License](LICENSE)
 
 ## File Descriptions
 

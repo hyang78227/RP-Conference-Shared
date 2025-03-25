@@ -106,6 +106,11 @@ To run the notebooks and execute the data processing steps:
 
 4. **Run the Notebooks:** Start with RP_SpecialAdmit_Headcount_combined_call.ipynb and run it. This will automatically execute the RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb scripts in sequence. Afterward, run the CDE_Data_Processing_Script.ipynb to process and reshape the CDE data for visualization.
 
+
+## License
+This project is licensed under the MIT License. See the  [MIT License](LICENSE)vfor more details.
+
+
 ## Requirements
 This project requires the following Python libraries:
 - pandas
@@ -118,7 +123,4 @@ This project requires the following Python libraries:
 All dependencies are listed in the requirements.txt file. You can install them by running:
 ```bash
 pip install -r requirements.txt
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 

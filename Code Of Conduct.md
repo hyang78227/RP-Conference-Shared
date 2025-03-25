@@ -1,7 +1,5 @@
 
 # CODE_OF_CONDUCT.md
-This file will outline expectations for behavior in your project's community. Here's a basic draft for your `CODE_OF_CONDUCT.md`:
-
 ```markdown
 # Contributor Covenant Code of Conduct
 

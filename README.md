@@ -6,10 +6,10 @@ This project contains multiple Python scripts for processing and analyzing stude
 ## Table of Contents
 - [Overview](#overview)
 - [File Descriptions](#file-descriptions)
-  - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)
-  - [RP_SpecialAdmit_Headcount_combined.ipynb](RP_SpecialAdmit_Headcount_combined.ipynb)
-  - [RP_SpecialAdmit_Headcount_combined_call.ipynb](RP_SpecialAdmit_Headcount_combined_Call.ipynb)
-  - [RP_Make_SpecialAdmit_Demos.ipynb](RP_Make_SpecialAdmit_Demos.ipynb)
+  - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)
+  - [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)
+  - [RP_SpecialAdmit_Headcount_combined_call.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined_Call.ipynb)
+  - [RP_Make_SpecialAdmit_Demos.ipynb](Notebook/RP_Make_SpecialAdmit_Demos.ipynb)
 - [Data Flow](#data-flow)
 - [Raw Data](#raw-data)
 - [Processing](#processing)
@@ -22,7 +22,7 @@ This project contains multiple Python scripts for processing and analyzing stude
 ## File Descriptions
 
 ### RP_SpecialAdmit_Headcount_by_HighSchool.ipynb
-- [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)
+- [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)
  
 This notebook processes data related to special admit headcounts by high school. It includes data cleaning, filtering, and generating headcount statistics for each high school.  
 **Processes special admit headcount data by high school, including:**
@@ -31,7 +31,7 @@ This notebook processes data related to special admit headcounts by high school.
 - **Output:** A cleaned dataset summarizing headcounts for each high school.
 
 ### RPSpecialAdmit_Headcount_combined.ipynb
-- [RP_SpecialAdmit_Headcount_combined.ipynb](RP_SpecialAdmit_Headcount_combined.ipynb)
+- [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)
   
 This script aggregates and combines headcount data from multiple sources and prepares it for further analysis and reporting.  
 **Aggregates and combines headcount data from multiple sources to:**
@@ -40,7 +40,7 @@ This script aggregates and combines headcount data from multiple sources and pre
 - **Output:** A consolidated dataset ready for reporting.
 
 ### RP_SpecialAdmit_Headcount_combined_call.ipynb
-- [RP_SpecialAdmit_Headcount_combined_Call.ipynb](RP_SpecialAdmit_Headcount_combined_Call.ipynb)
+- [RP_SpecialAdmit_Headcount_combined_Call.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined_Call.ipynb)
  
 This Python script automates the execution of the other two notebooks. It runs both the RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb scripts in sequence to automate the data processing pipeline.  
 **Automates the data processing pipeline by:**
@@ -48,7 +48,7 @@ This Python script automates the execution of the other two notebooks. It runs b
 - Ensures all data is processed in the correct order.
 
 ### CDE_Data_Processing_Script.ipynb
-- [RP_Make_SpecialAdmit_Demos.ipynb](RP_Make_SpecialAdmit_Demos.ipynb)
+- [RP_Make_SpecialAdmit_Demos.ipynb](Notebook/RP_Make_SpecialAdmit_Demos.ipynb)
  
 This script processes the California Department of Education (CDE) data, filters, and reshapes it for use in the dashboard. It includes steps for filtering by reporting categories and school names, as well as pivoting the data from long to wide format for easier analysis.  
 **Processes California Department of Education (CDE) data:**

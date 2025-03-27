@@ -118,7 +118,10 @@ The data is processed through the following steps:
 4. **Aggregation:** Aggregated datasets are created by combining headcount data, ethnicities, and academic year data.
 
 ### Output
-The consolidated and processed datasets are exported as Excel files, which are used for the dashboard's reporting and visualization.
+- A processed headcount dataset in Excel format, summarizing both
+    - Headcounts for each high school  
+    - Overall headcount across all high schools 
+- A processed CDE datasets in Excel format, summarizing high school enrollment inforamtion.
 
 ## Installation
 To set up this project on your local machine, follow the steps below:

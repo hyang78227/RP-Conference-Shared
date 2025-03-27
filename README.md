@@ -96,11 +96,12 @@ RP-Conference-Share/
 - [RP_Make_SpecialAdmit_Demos.ipynb](Notebook/RP_Make_SpecialAdmit_Demos.ipynb)
  
   This script processes the California Department of Education (CDE) data, filters, and reshapes it for use in the dashboard. It includes steps for filtering by reporting categories and school 
-  names, as well as pivoting the data from long to wide format for easier analysis.  
+  names, as well as pivoting the data from long to wide format for easier analysis.
+   
   **Processes California Department of Education (CDE) data:**
   - **Input:** Raw CDE datasets.
-  - **Steps:** Filtering by reporting categories, cleaning school names, and reshaping the data from long to wide format.
-  - **Output:** A pivoted dataset ready for dashboard visualization.
+  - **Steps:** Filtering by reporting categories and interested high schools, cleaning school names, and reshaping the data from long to wide format.
+  - **Output:** A pivoted dataset in Excel format, ready for dashboard visualization.
 
 ## Data Flow
 

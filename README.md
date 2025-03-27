@@ -59,7 +59,7 @@ This notebook processes data related to special admit headcounts by high school.
 **Processes special admit headcount data by high school, including:**
 - **Input:** Raw Special Admit Foundation data in CSV format.
 - **Steps:** Data cleaning, filtering, and aggregating headcount statistics.
-- **Output:** A cleaned dataset summarizing headcounts for each high school in Excel format.
+- **Output:** A processed dataset in Excel format, summarizing headcounts for each high school.
 
 ### RPSpecialAdmit_Headcount_combined.ipynb
 - [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)

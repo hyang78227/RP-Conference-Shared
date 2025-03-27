@@ -58,9 +58,9 @@ RP-Conference-Share/
   This notebook processes data related to special admit headcounts by high school. It includes data cleaning, filtering, and generating headcount statistics for each high school. 
 
   **Processes special admit headcount data by high school, including:**
-- **Input:** Raw Special Admit Foundation data in CSV format.
-- **Steps:** Data cleaning, filtering, and aggregating headcount statistics.
-- **Output:** A processed dataset in Excel format, summarizing headcounts for each high school.
+  - **Input:** Raw Special Admit Foundation data in CSV format.
+  - **Steps:** Data cleaning, filtering, and aggregating headcount statistics.
+  - **Output:** A processed dataset in Excel format, summarizing headcounts for each high school.
 
 ### RPSpecialAdmit_Headcount_combined.ipynb
 - [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)
@@ -68,33 +68,35 @@ RP-Conference-Share/
   This script aggregates and combines headcount data from multiple sources and prepares it for further analysis and reporting.
 
   **Processes special admit headcount data across all high school, including:**
-- **Input:**  
-  - Raw Special Admit Foundation data in CSV format  
-  - Processed headcount data from [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)  
+  - **Input:**  
+    - Raw Special Admit Foundation data in CSV format  
+    - Processed headcount data from [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)  
 
-- **Steps:**  
-  - Aggregation, join, and transformation  
+  - **Steps:**  
+   - Aggregation, join, and transformation  
 
-- **Output:**  A processed headcount dataset in Excel format, summarizing
-  - Headcounts for each high school  
-  - Overall headcount across all high schools 
+  - **Output:**  A processed headcount dataset in Excel format, summarizing
+    - Headcounts for each high school  
+    - Overall headcount across all high schools 
 
 ### RP_SpecialAdmit_Headcount_combined_call.ipynb
 - [RP_SpecialAdmit_Headcount_combined_Call.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined_Call.ipynb)
  
-This Python script automates the execution of the other two notebooks. It runs both the RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb scripts in sequence to automate the data processing pipeline.  
-**Automates the data processing pipeline by:**
-- Executing RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb sequentially.
-- Ensures all data is processed in the correct order.
+  This Python script automates the execution of the other two notebooks. It runs both the RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb scripts in 
+  sequence to automate the data processing pipeline.  
+  **Automates the data processing pipeline by:**
+  - Executing RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb sequentially.
+  - Ensures all data is processed in the correct order.
 
 ### CDE_Data_Processing_Script.ipynb
 - [RP_Make_SpecialAdmit_Demos.ipynb](Notebook/RP_Make_SpecialAdmit_Demos.ipynb)
  
-This script processes the California Department of Education (CDE) data, filters, and reshapes it for use in the dashboard. It includes steps for filtering by reporting categories and school names, as well as pivoting the data from long to wide format for easier analysis.  
-**Processes California Department of Education (CDE) data:**
-- **Input:** Raw CDE datasets.
-- **Steps:** Filtering by reporting categories, cleaning school names, and reshaping the data from long to wide format.
-- **Output:** A pivoted dataset ready for dashboard visualization.
+  This script processes the California Department of Education (CDE) data, filters, and reshapes it for use in the dashboard. It includes steps for filtering by reporting categories and school 
+  names, as well as pivoting the data from long to wide format for easier analysis.  
+  **Processes California Department of Education (CDE) data:**
+  - **Input:** Raw CDE datasets.
+  - **Steps:** Filtering by reporting categories, cleaning school names, and reshaping the data from long to wide format.
+  - **Output:** A pivoted dataset ready for dashboard visualization.
 
 ## Data Flow
 

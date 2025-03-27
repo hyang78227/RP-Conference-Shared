@@ -57,18 +57,18 @@ RP-Conference-Share/
  
 This notebook processes data related to special admit headcounts by high school. It includes data cleaning, filtering, and generating headcount statistics for each high school.  
 **Processes special admit headcount data by high school, including:**
-- **Input:** Raw enrollment data by high school.
-- **Steps:** Data cleaning, filtering, and generating headcount statistics.
-- **Output:** A cleaned dataset summarizing headcounts for each high school.
+- **Input:** Raw Special Admit Foundation data in CSV format.
+- **Steps:** Data cleaning, filtering, and aggregating headcount statistics.
+- **Output:** A cleaned dataset summarizing headcounts for each high school in Excel format.
 
 ### RPSpecialAdmit_Headcount_combined.ipynb
 - [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)
   
 This script aggregates and combines headcount data from multiple sources and prepares it for further analysis and reporting.  
 **Aggregates and combines headcount data from multiple sources to:**
-- **Input:** Processed datasets from the high school-level analysis.
-- **Steps:** Merging, aggregation, and transformation.
-- **Output:** A consolidated dataset ready for reporting.
+- **Input:** Raw Special Admit Foundation data in CSV format and Processed headcount data from [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb) 
+- **Steps:** aggregation, join and transformation.
+- **Output:** A cleaned dataset summarizing headcounts for each high school and overeall headcount across all high schools in Excel format.
 
 ### RP_SpecialAdmit_Headcount_combined_call.ipynb
 - [RP_SpecialAdmit_Headcount_combined_Call.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined_Call.ipynb)

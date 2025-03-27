@@ -144,9 +144,9 @@ To set up this project on your local machine, follow the steps below:
 ## Usage
 To run the notebooks and execute the data processing steps:
 
-1. Run the RP_SpecialAdmit_Headcount_combined_call.ipynb script. This will automatically execute both the RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb notebooks sequentially.
+1. Run [RP_SpecialAdmit_Headcount_combined_call.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined_Call.ipynb). This will automatically execute [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb) and [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb) notebooks sequentially.
    
-2. For the CDE data processing, run the CDE_Data_Processing_Script.ipynb to filter, reshape, and clean the CDE data. This step will prepare the data for reporting.
+2. For the CDE data processing, run [RP_Make_SpecialAdmit_Demos.ipynb](Notebook/RP_Make_SpecialAdmit_Demos.ipynb) to filter, reshape, and clean the CDE data. This step will prepare the data for reporting.
 
 ### How to Run Jupyter Notebooks
 1. **Install Jupyter:** If you don't have Jupyter installed, you can install it using pip:
@@ -165,7 +165,7 @@ To run the notebooks and execute the data processing steps:
 4. **Run the Notebooks:**
    - Start with [RP_SpecialAdmit_Headcount_combined_call.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined_Call.ipynb) and run it. This will automatically execute [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb) and [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)  
  scripts in sequence.
-   - Afterward, run the CDE_Data_Processing_Script.ipynb to process and reshape the CDE data for visualization.
+   - Afterward, run [RP_Make_SpecialAdmit_Demos.ipynb](Notebook/RP_Make_SpecialAdmit_Demos.ipynb) to process and reshape the CDE data for visualization.
 
 
 ## License

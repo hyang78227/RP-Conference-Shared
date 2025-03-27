@@ -83,7 +83,7 @@ RP-Conference-Share/
 - [RP_SpecialAdmit_Headcount_combined_Call.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined_Call.ipynb)
  
   This Python script automates the execution of the other two notebooks.  
-  <span style="color:red;">**THIS IS THE ONLY PYTHON FILE YOU NEED TO RUN!**</span>  
+  <b style="color:red;">THIS IS THE ONLY PYTHON FILE YOU NEED TO RUN!</b>  
   It runs both:  
   - [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)  
   - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)  

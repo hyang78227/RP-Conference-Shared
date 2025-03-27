@@ -162,7 +162,10 @@ To run the notebooks and execute the data processing steps:
 
 3. **Navigate to the Project Folder:** In the web interface, navigate to the folder where the project is located. You should see all the notebooks listed.
 
-4. **Run the Notebooks:** Start with RP_SpecialAdmit_Headcount_combined_call.ipynb and run it. This will automatically execute the RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb scripts in sequence. Afterward, run the CDE_Data_Processing_Script.ipynb to process and reshape the CDE data for visualization.
+4. **Run the Notebooks:**
+   - Start with RP_SpecialAdmit_Headcount_combined_call.ipynb and run it. This will automatically execute [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb) and [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)  
+ scripts in sequence.
+   - Afterward, run the CDE_Data_Processing_Script.ipynb to process and reshape the CDE data for visualization.
 
 
 ## License

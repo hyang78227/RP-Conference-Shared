@@ -1,0 +1,1139 @@
+StudentID,Ethnicity,AcYr,EnrollType,AdmitType,HighSchool,District,College
+1,Latinx,2023-24,Concurrent,Conc,A,High School District,ABCD
+2,Asian,2023-24,CCAP,Dual,B,High School District,ABCD
+3,Multi-Ethnicity,2023-24,Concurrent,Conc,C,High School District,ABCD
+4,Latinx,2023-24,Concurrent,Conc,D,High School District,ABCD
+5,African American,2023-24,Concurrent,Conc,D,High School District,ABCD
+6,African American,2023-24,Concurrent,Conc,D,High School District,ABCD
+7,Latinx,2023-24,Concurrent,Conc,D,High School District,ABCD
+8,Latinx,2023-24,Concurrent,Conc,D,High School District,ABCD
+9,Latinx,2023-24,Concurrent,Conc,D,High School District,ABCD
+10,Latinx,2023-24,Concurrent,Conc,D,High School District,ABCD
+11,White,2023-24,Concurrent,Conc,E,High School District,ABCD
+12,White,2023-24,Concurrent,Conc,E,High School District,ABCD
+13,Multi-Ethnicity,2023-24,CCAP,Dual,F,High School District,ABCD
+14,White,2023-24,CCAP,Dual,F,High School District,ABCD
+15,Latinx,2023-24,CCAP,Dual,F,High School District,ABCD
+16,White,2023-24,CCAP,Dual,F,High School District,ABCD
+17,White,2023-24,CCAP,Dual,G,High School District,ABCD
+18,Multi-Ethnicity,2023-24,CCAP,Dual,G,High School District,ABCD
+19,White,2023-24,NCD,Dual,H,High School District,ABCD
+20,White,2023-24,NCD,Dual,B,High School District,ABCD
+21,Multi-Ethnicity,2023-24,NCD,Dual,B,High School District,ABCD
+22,White,2023-24,NCD,Dual,H,High School District,ABCD
+23,White,2023-24,NCD,Dual,I ,High School District,ABCD
+24,Latinx,2023-24,NCD,Dual,I ,High School District,ABCD
+25,Latinx,2023-24,NCD,Dual,J,High School District,ABCD
+26,White,2023-24,NCD,Dual,H,High School District,ABCD
+27,Filipino,2023-24,NCD,Dual,J,High School District,ABCD
+28,Filipino,2023-24,NCD,Dual,I ,High School District,ABCD
+29,White,2023-24,NCD,Dual,G,High School District,ABCD
+30,Multi-Ethnicity,2023-24,NCD,Dual,H,High School District,ABCD
+31,White,2023-24,NCD,Dual,H,High School District,ABCD
+32,African American,2023-24,NCD,Dual,K,High School District,ABCD
+33,Latinx,2023-24,NCD,Dual,H,High School District,ABCD
+34,Multi-Ethnicity,2023-24,NCD,Dual,L,High School District,ABCD
+35,Latinx,2023-24,NCD,Dual,L,High School District,ABCD
+36,Unreported,2023-24,Concurrent,Conc,I ,High School District,ABCD
+37,White,2023-24,CCAP,Dual,H,High School District,ABCD
+38,White,2023-24,CCAP,Dual,L,High School District,ABCD
+39,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+40,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+41,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+42,White,2023-24,CCAP,Dual,G,High School District,ABCD
+43,White,2023-24,CCAP,Dual,G,High School District,ABCD
+44,White,2023-24,CCAP,Dual,H,High School District,ABCD
+45,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+46,Asian,2023-24,CCAP,Dual,G,High School District,ABCD
+47,White,2023-24,CCAP,Dual,G,High School District,ABCD
+48,African American,2023-24,CCAP,Dual,G,High School District,ABCD
+49,White,2023-24,CCAP,Dual,G,High School District,ABCD
+50,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+51,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+52,Multi-Ethnicity,2023-24,CCAP,Dual,M,High School District,ABCD
+53,Multi-Ethnicity,2023-24,CCAP,Dual,H,High School District,ABCD
+54,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+55,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+56,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+57,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+58,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+59,White,2023-24,CCAP,Dual,H,High School District,ABCD
+60,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+61,White,2023-24,CCAP,Dual,H,High School District,ABCD
+62,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+63,Multi-Ethnicity,2023-24,CCAP,Dual,H,High School District,ABCD
+64,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+65,White,2023-24,CCAP,Dual,H,High School District,ABCD
+66,Multi-Ethnicity,2023-24,CCAP,Dual,H,High School District,ABCD
+67,White,2023-24,CCAP,Dual,H,High School District,ABCD
+68,White,2023-24,CCAP,Dual,H,High School District,ABCD
+69,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+70,Filipino,2023-24,CCAP,Dual,J,High School District,ABCD
+71,White,2023-24,CCAP,Dual,L,High School District,ABCD
+72,White,2023-24,CCAP,Dual,B,High School District,ABCD
+73,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+74,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+75,Multi-Ethnicity,2023-24,CCAP,Dual,J,High School District,ABCD
+76,Multi-Ethnicity,2023-24,CCAP,Dual,N,High School District,ABCD
+77,White,2023-24,CCAP,Dual,L,High School District,ABCD
+78,Latinx,2023-24,CCAP,Dual,J,High School District,ABCD
+79,White,2023-24,CCAP,Dual,J,High School District,ABCD
+80,Filipino,2023-24,CCAP,Dual,J,High School District,ABCD
+81,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+82,Latinx,2023-24,CCAP,Dual,B,High School District,ABCD
+83,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+84,Latinx,2023-24,CCAP,Dual,N,High School District,ABCD
+85,Filipino,2023-24,CCAP,Dual,N,High School District,ABCD
+86,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+87,Latinx,2023-24,CCAP,Dual,N,High School District,ABCD
+88,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+89,African American,2023-24,CCAP,Dual,M,High School District,ABCD
+90,Filipino,2023-24,CCAP,Dual,N,High School District,ABCD
+91,Latinx,2023-24,CCAP,Dual,J,High School District,ABCD
+92,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+93,White,2023-24,CCAP,Dual,H,High School District,ABCD
+94,African American,2023-24,CCAP,Dual,M,High School District,ABCD
+95,Unreported,2023-24,CCAP,Dual,H,High School District,ABCD
+96,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+97,Asian,2023-24,CCAP,Dual,G,High School District,ABCD
+98,White,2023-24,Concurrent,Conc,A,High School District,ABCD
+99,White,2023-24,Concurrent,Conc,A,High School District,ABCD
+100,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+101,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+102,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+103,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+104,Filipino,2023-24,NCD,Dual,K,High School District,ABCD
+105,Filipino,2023-24,NCD,Dual,K,High School District,ABCD
+106,Latinx,2023-24,NCD,Dual,K,High School District,ABCD
+107,Latinx,2023-24,NCD,Dual,G,High School District,ABCD
+108,Latinx,2023-24,NCD,Dual,H,High School District,ABCD
+109,White,2023-24,NCD,Dual,G,High School District,ABCD
+110,White,2023-24,NCD,Dual,A,High School District,ABCD
+111,White,2023-24,NCD,Dual,A,High School District,ABCD
+112,White,2023-24,NCD,Dual,H,High School District,ABCD
+113,Multi-Ethnicity,2023-24,NCD,Dual,I ,High School District,ABCD
+114,Multi-Ethnicity,2023-24,NCD,Dual,K,High School District,ABCD
+115,Multi-Ethnicity,2023-24,NCD,Dual,K,High School District,ABCD
+116,Unreported,2023-24,NCD,Dual,N,High School District,ABCD
+117,Multi-Ethnicity,2023-24,NCD,Dual,B,High School District,ABCD
+118,Asian,2023-24,NCD,Dual,N,High School District,ABCD
+119,Multi-Ethnicity,2023-24,CCAP,Dual,I ,High School District,ABCD
+120,Latinx,2023-24,CCAP,Dual,A,High School District,ABCD
+121,Multi-Ethnicity,2023-24,Concurrent,Conc,I ,High School District,ABCD
+122,Latinx,2023-24,CCAP,Dual,J,High School District,ABCD
+123,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+124,Latinx,2023-24,CCAP,Dual,J,High School District,ABCD
+125,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+126,Asian,2023-24,CCAP,Dual,B,High School District,ABCD
+127,White,2023-24,CCAP,Dual,H,High School District,ABCD
+128,White,2023-24,CCAP,Dual,H,High School District,ABCD
+129,Asian,2023-24,CCAP,Dual,A,High School District,ABCD
+130,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+131,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+132,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+133,Latinx,2023-24,CCAP,Dual,C,High School District,ABCD
+134,Latinx,2023-24,CCAP,Dual,C,High School District,ABCD
+135,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+136,Latinx,2023-24,CCAP,Dual,M,High School District,ABCD
+137,White,2023-24,CCAP,Dual,B,High School District,ABCD
+138,White,2023-24,CCAP,Dual,H,High School District,ABCD
+139,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+140,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+141,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+142,White,2023-24,CCAP,Dual,A,High School District,ABCD
+143,Asian,2023-24,CCAP,Dual,G,High School District,ABCD
+144,White,2023-24,CCAP,Dual,M,High School District,ABCD
+145,African American,2023-24,CCAP,Dual,M,High School District,ABCD
+146,Asian,2023-24,CCAP,Dual,M,High School District,ABCD
+147,African American,2023-24,CCAP,Dual,B,High School District,ABCD
+148,Asian,2023-24,CCAP,Dual,M,High School District,ABCD
+149,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+150,Native American,2023-24,CCAP,Dual,I ,High School District,ABCD
+151,Filipino,2023-24,CCAP,Dual,I ,High School District,ABCD
+152,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+153,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+154,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+155,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+156,White,2023-24,CCAP,Dual,I ,High School District,ABCD
+157,White,2023-24,CCAP,Dual,I ,High School District,ABCD
+158,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+159,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+160,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+161,Filipino,2023-24,CCAP,Dual,M,High School District,ABCD
+162,White,2023-24,CCAP,Dual,I ,High School District,ABCD
+163,Latinx,2023-24,Concurrent,Conc,I ,High School District,ABCD
+164,White,2023-24,Concurrent,Conc,I ,High School District,ABCD
+165,Filipino,2023-24,CCAP,Dual,I ,High School District,ABCD
+166,Filipino,2023-24,CCAP,Dual,I ,High School District,ABCD
+167,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+168,White,2023-24,CCAP,Dual,I ,High School District,ABCD
+169,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+170,African American,2023-24,CCAP,Dual,I ,High School District,ABCD
+171,Unreported,2023-24,CCAP,Dual,I ,High School District,ABCD
+172,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+173,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+174,White,2023-24,CCAP,Dual,G,High School District,ABCD
+175,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+176,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+177,Multi-Ethnicity,2023-24,CCAP,Dual,I ,High School District,ABCD
+178,Multi-Ethnicity,2023-24,Concurrent,Conc,I ,High School District,ABCD
+179,Latinx,2023-24,CCAP,Dual,D,High School District,ABCD
+180,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+181,Asian,2023-24,Concurrent,Conc,I ,High School District,ABCD
+182,African American,2023-24,CCAP,Dual,I ,High School District,ABCD
+183,White,2023-24,CCAP,Dual,G,High School District,ABCD
+184,African American,2023-24,CCAP,Dual,E,High School District,ABCD
+185,African American,2023-24,CCAP,Dual,E,High School District,ABCD
+186,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+187,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+188,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+189,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+190,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+191,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+192,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+193,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+194,Latinx,2023-24,Concurrent,Conc,I ,High School District,ABCD
+195,White,2023-24,CCAP,Dual,H,High School District,ABCD
+196,Asian,2023-24,CCAP,Dual,A,High School District,ABCD
+197,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+198,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+199,White,2023-24,CCAP,Dual,H,High School District,ABCD
+200,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+201,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+202,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+203,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+204,White,2023-24,CCAP,Dual,H,High School District,ABCD
+205,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+206,White,2023-24,CCAP,Dual,H,High School District,ABCD
+207,Filipino,2023-24,CCAP,Dual,J,High School District,ABCD
+208,Latinx,2023-24,Concurrent,Conc,N,High School District,ABCD
+209,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+210,Multi-Ethnicity,2023-24,Concurrent,Conc,D,High School District,ABCD
+211,White,2023-24,Concurrent,Conc,D,High School District,ABCD
+212,Multi-Ethnicity,2023-24,CCAP,Dual,I ,High School District,ABCD
+213,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+214,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+215,White,2023-24,CCAP,Dual,I ,High School District,ABCD
+216,Multi-Ethnicity,2023-24,CCAP,Dual,I ,High School District,ABCD
+217,White,2023-24,Concurrent,Conc,C,High School District,ABCD
+218,Latinx,2023-24,CCAP,Dual,J,High School District,ABCD
+219,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+220,Filipino,2023-24,CCAP,Dual,J,High School District,ABCD
+221,African American,2023-24,CCAP,Dual,I ,High School District,ABCD
+222,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+223,African American,2023-24,CCAP,Dual,E,High School District,ABCD
+224,African American,2023-24,CCAP,Dual,E,High School District,ABCD
+225,Latinx,2023-24,CCAP,Dual,E,High School District,ABCD
+226,Latinx,2023-24,CCAP,Dual,E,High School District,ABCD
+227,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+228,Latinx,2023-24,CCAP,Dual,C,High School District,ABCD
+229,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+230,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+231,Latinx,2023-24,CCAP,Dual,A,High School District,ABCD
+232,Asian,2023-24,CCAP,Dual,G,High School District,ABCD
+233,Asian,2023-24,CCAP,Dual,C,High School District,ABCD
+234,Filipino,2023-24,CCAP,Dual,I ,High School District,ABCD
+235,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+236,White,2023-24,CCAP,Dual,H,High School District,ABCD
+237,Latinx,2023-24,CCAP,Dual,F,High School District,ABCD
+238,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+239,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+240,Unreported,2023-24,CCAP,Dual,I ,High School District,ABCD
+241,Filipino,2023-24,CCAP,Dual,M,High School District,ABCD
+242,Latinx,2023-24,CCAP,Dual,A,High School District,ABCD
+243,Latinx,2023-24,Concurrent,Conc,I ,High School District,ABCD
+244,White,2023-24,CCAP,Dual,G,High School District,ABCD
+245,Latinx,2023-24,CCAP,Dual,M,High School District,ABCD
+246,Asian,2023-24,CCAP,Dual,G,High School District,ABCD
+247,Filipino,2023-24,CCAP,Dual,J,High School District,ABCD
+248,Asian,2023-24,NCD,Dual,M,High School District,ABCD
+249,Filipino,2023-24,NCD,Dual,K,High School District,ABCD
+250,Filipino,2023-24,NCD,Dual,K,High School District,ABCD
+251,Latinx,2023-24,NCD,Dual,K,High School District,ABCD
+252,Latinx,2023-24,NCD,Dual,K,High School District,ABCD
+253,Asian,2023-24,NCD,Dual,M,High School District,ABCD
+254,Latinx,2023-24,NCD,Dual,M,High School District,ABCD
+255,White,2023-24,NCD,Dual,G,High School District,ABCD
+256,White,2023-24,NCD,Dual,G,High School District,ABCD
+257,Latinx,2023-24,NCD,Dual,G,High School District,ABCD
+258,Asian,2023-24,NCD,Dual,G,High School District,ABCD
+259,White,2023-24,NCD,Dual,G,High School District,ABCD
+260,Latinx,2023-24,NCD,Dual,A,High School District,ABCD
+261,White,2023-24,NCD,Dual,G,High School District,ABCD
+262,White,2023-24,NCD,Dual,A,High School District,ABCD
+263,White,2023-24,NCD,Dual,A,High School District,ABCD
+264,Latinx,2023-24,NCD,Dual,A,High School District,ABCD
+265,Latinx,2023-24,NCD,Dual,F,High School District,ABCD
+266,Latinx,2023-24,CCAP,Dual,F,High School District,ABCD
+267,Latinx,2023-24,Concurrent,Conc,F,High School District,ABCD
+268,White,2023-24,CCAP,Dual,G,High School District,ABCD
+269,Asian,2023-24,CCAP,Dual,G,High School District,ABCD
+270,Latinx,2023-24,CCAP,Dual,C,High School District,ABCD
+271,Latinx,2023-24,CCAP,Dual,C,High School District,ABCD
+272,Asian,2023-24,CCAP,Dual,C,High School District,ABCD
+273,Asian,2023-24,CCAP,Dual,C,High School District,ABCD
+274,African American,2023-24,CCAP,Dual,F,High School District,ABCD
+275,Unreported,2023-24,CCAP,Dual,A,High School District,ABCD
+276,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+277,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD
+278,White,2023-24,CCAP,Dual,G,High School District,ABCD
+279,Asian,2023-24,CCAP,Dual,I ,High School District,ABCD
+280,White,2023-24,CCAP,Dual,G,High School District,ABCD
+281,Latinx,2023-24,CCAP,Dual,M,High School District,ABCD
+282,White,2023-24,CCAP,Dual,G,High School District,ABCD
+283,White,2023-24,Concurrent,Conc,A,High School District,ABCD
+284,Filipino,2023-24,CCAP,Dual,I ,High School District,ABCD
+285,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+286,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+287,Multi-Ethnicity,2022-23,CCAP,Dual,G,High School District,ABCD
+288,White,2022-23,Concurrent,Conc,E,High School District,ABCD
+289,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+290,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+291,White,2022-23,CCAP,Dual,G,High School District,ABCD
+292,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+293,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+294,Asian,2022-23,CCAP,Dual,J,High School District,ABCD
+295,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+296,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+297,Asian,2022-23,CCAP,Dual,E,High School District,ABCD
+298,Asian,2022-23,CCAP,Dual,E,High School District,ABCD
+299,Latinx,2022-23,CCAP,Dual,I ,High School District,ABCD
+300,White,2022-23,CCAP,Dual,G,High School District,ABCD
+301,Filipino,2022-23,CCAP,Dual,K,High School District,ABCD
+302,Filipino,2022-23,CCAP,Dual,K,High School District,ABCD
+303,Asian,2022-23,CCAP,Dual,K,High School District,ABCD
+304,Asian,2022-23,CCAP,Dual,K,High School District,ABCD
+305,Latinx,2022-23,CCAP,Dual,K,High School District,ABCD
+306,Latinx,2022-23,CCAP,Dual,K,High School District,ABCD
+307,Filipino,2022-23,CCAP,Dual,K,High School District,ABCD
+308,Filipino,2022-23,CCAP,Dual,K,High School District,ABCD
+309,Latinx,2022-23,CCAP,Dual,M,High School District,ABCD
+310,Unreported,2022-23,CCAP,Dual,I ,High School District,ABCD
+311,Latinx,2022-23,CCAP,Dual,H,High School District,ABCD
+312,Asian,2022-23,CCAP,Dual,M,High School District,ABCD
+313,Latinx,2022-23,CCAP,Dual,L,High School District,ABCD
+314,Filipino,2022-23,Concurrent,Conc,I ,High School District,ABCD
+315,Latinx,2022-23,CCAP,Dual,F,High School District,ABCD
+316,Multi-Ethnicity,2022-23,CCAP,Dual,I ,High School District,ABCD
+317,African American,2022-23,CCAP,Dual,E,High School District,ABCD
+318,Latinx,2022-23,CCAP,Dual,H,High School District,ABCD
+319,Latinx,2022-23,CCAP,Dual,C,High School District,ABCD
+320,Filipino,2022-23,CCAP,Dual,I ,High School District,ABCD
+321,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+322,Latinx,2022-23,CCAP,Dual,E,High School District,ABCD
+323,White,2022-23,Concurrent,Conc,C,High School District,ABCD
+324,Multi-Ethnicity,2022-23,CCAP,Dual,I ,High School District,ABCD
+325,Latinx,2022-23,CCAP,Dual,K,High School District,ABCD
+326,Latinx,2022-23,CCAP,Dual,K,High School District,ABCD
+327,African American,2022-23,CCAP,Dual,K,High School District,ABCD
+328,African American,2022-23,CCAP,Dual,K,High School District,ABCD
+329,Asian,2022-23,CCAP,Dual,I ,High School District,ABCD
+330,Unreported,2022-23,CCAP,Dual,K,High School District,ABCD
+331,Asian,2022-23,CCAP,Dual,K,High School District,ABCD
+332,Asian,2022-23,CCAP,Dual,K,High School District,ABCD
+333,Filipino,2022-23,CCAP,Dual,K,High School District,ABCD
+334,Filipino,2022-23,CCAP,Dual,K,High School District,ABCD
+335,Filipino,2022-23,CCAP,Dual,K,High School District,ABCD
+336,Filipino,2022-23,CCAP,Dual,K,High School District,ABCD
+337,Asian,2022-23,CCAP,Dual,I ,High School District,ABCD
+338,Asian,2022-23,CCAP,Dual,H,High School District,ABCD
+339,Latinx,2022-23,CCAP,Dual,H,High School District,ABCD
+340,Asian,2022-23,CCAP,Dual,G,High School District,ABCD
+341,Unreported,2022-23,CCAP,Dual,G,High School District,ABCD
+342,White,2022-23,CCAP,Dual,K,High School District,ABCD
+343,White,2022-23,CCAP,Dual,K,High School District,ABCD
+344,Pacific Islander,2022-23,CCAP,Dual,C,High School District,ABCD
+345,African American,2022-23,CCAP,Dual,K,High School District,ABCD
+346,White,2022-23,CCAP,Dual,G,High School District,ABCD
+347,Multi-Ethnicity,2022-23,CCAP,Dual,L,High School District,ABCD
+348,Latinx,2022-23,CCAP,Dual,L,High School District,ABCD
+349,Multi-Ethnicity,2022-23,CCAP,Dual,L,High School District,ABCD
+350,White,2022-23,CCAP,Dual,D,High School District,ABCD
+351,Latinx,2022-23,NCD,Dual,G,High School District,ABCD
+352,Asian,2022-23,NCD,Dual,K,High School District,ABCD
+353,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+354,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+355,White,2022-23,NCD,Dual,D,High School District,ABCD
+356,White,2022-23,NCD,Dual,M,High School District,ABCD
+357,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+358,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+359,White,2022-23,NCD,Dual,A,High School District,ABCD
+360,Asian,2022-23,NCD,Dual,D,High School District,ABCD
+361,Asian,2022-23,NCD,Dual,I ,High School District,ABCD
+362,African American,2022-23,NCD,Dual,I ,High School District,ABCD
+363,Filipino,2022-23,NCD,Dual,N,High School District,ABCD
+364,African American,2022-23,NCD,Dual,N,High School District,ABCD
+365,Latinx,2022-23,NCD,Dual,G,High School District,ABCD
+366,White,2022-23,NCD,Dual,I ,High School District,ABCD
+367,Filipino,2022-23,NCD,Dual,N,High School District,ABCD
+368,White,2022-23,NCD,Dual,B,High School District,ABCD
+369,Asian,2022-23,NCD,Dual,G,High School District,ABCD
+370,White,2022-23,NCD,Dual,B,High School District,ABCD
+371,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+372,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+373,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+374,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+375,Asian,2022-23,NCD,Dual,B,High School District,ABCD
+376,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+377,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+378,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+379,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+380,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+381,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+382,Multi-Ethnicity,2022-23,NCD,Dual,F,High School District,ABCD
+383,Asian,2022-23,NCD,Dual,C,High School District,ABCD
+384,Asian,2022-23,NCD,Dual,C,High School District,ABCD
+385,Latinx,2022-23,NCD,Dual,G,High School District,ABCD
+386,Multi-Ethnicity,2022-23,NCD,Dual,B,High School District,ABCD
+387,Multi-Ethnicity,2022-23,NCD,Dual,G,High School District,ABCD
+388,Latinx,2022-23,NCD,Dual,M,High School District,ABCD
+389,Filipino,2022-23,NCD,Dual,M,High School District,ABCD
+390,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+391,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+392,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+393,Asian,2022-23,NCD,Dual,D,High School District,ABCD
+394,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+395,Latinx,2022-23,NCD,Dual,N,High School District,ABCD
+396,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+397,Asian,2022-23,NCD,Dual,F,High School District,ABCD
+398,Multi-Ethnicity,2022-23,NCD,Dual,J,High School District,ABCD
+399,Filipino,2022-23,NCD,Dual,J,High School District,ABCD
+400,Latinx,2022-23,NCD,Dual,G,High School District,ABCD
+401,White,2022-23,NCD,Dual,G,High School District,ABCD
+402,White,2022-23,NCD,Dual,G,High School District,ABCD
+403,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+404,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+405,Latinx,2022-23,NCD,Dual,J,High School District,ABCD
+406,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+407,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+408,White,2022-23,NCD,Dual,J,High School District,ABCD
+409,Filipino,2022-23,NCD,Dual,J,High School District,ABCD
+410,Asian,2022-23,NCD,Dual,I ,High School District,ABCD
+411,Asian,2022-23,NCD,Dual,I ,High School District,ABCD
+412,Latinx,2022-23,NCD,Dual,I ,High School District,ABCD
+413,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+414,Latinx,2022-23,NCD,Dual,J,High School District,ABCD
+415,Latinx,2022-23,NCD,Dual,I ,High School District,ABCD
+416,Latinx,2022-23,NCD,Dual,I ,High School District,ABCD
+417,White,2022-23,NCD,Dual,N,High School District,ABCD
+418,Filipino,2022-23,NCD,Dual,N,High School District,ABCD
+419,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+420,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+421,Asian,2022-23,NCD,Dual,D,High School District,ABCD
+422,Latinx,2022-23,NCD,Dual,J,High School District,ABCD
+423,Multi-Ethnicity,2022-23,NCD,Dual,J,High School District,ABCD
+424,Asian,2022-23,NCD,Dual,K,High School District,ABCD
+425,Asian,2022-23,NCD,Dual,K,High School District,ABCD
+426,White,2022-23,NCD,Dual,A,High School District,ABCD
+427,Latinx,2022-23,NCD,Dual,K,High School District,ABCD
+428,Latinx,2022-23,NCD,Dual,K,High School District,ABCD
+429,African American,2022-23,NCD,Dual,M,High School District,ABCD
+430,Latinx,2022-23,NCD,Conc,I ,High School District,ABCD
+431,Filipino,2022-23,NCD,Dual,J,High School District,ABCD
+432,Latinx,2022-23,NCD,Dual,L,High School District,ABCD
+433,Filipino,2022-23,NCD,Dual,J,High School District,ABCD
+434,Asian,2022-23,NCD,Dual,F,High School District,ABCD
+435,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+436,White,2022-23,NCD,Dual,J,High School District,ABCD
+437,Latinx,2022-23,NCD,Dual,F,High School District,ABCD
+438,Latinx,2022-23,NCD,Dual,F,High School District,ABCD
+439,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+440,Latinx,2022-23,NCD,Dual,C,High School District,ABCD
+441,Asian,2022-23,NCD,Dual,C,High School District,ABCD
+442,Asian,2022-23,NCD,Dual,C,High School District,ABCD
+443,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+444,White,2022-23,NCD,Dual,A,High School District,ABCD
+445,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+446,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+447,Latinx,2022-23,NCD,Dual,J,High School District,ABCD
+448,Latinx,2022-23,NCD,Dual,K,High School District,ABCD
+449,Latinx,2022-23,NCD,Dual,F,High School District,ABCD
+450,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+451,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+452,Filipino,2022-23,NCD,Dual,J,High School District,ABCD
+453,Multi-Ethnicity,2022-23,NCD,Dual,J,High School District,ABCD
+454,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+455,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+456,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+457,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+458,Asian,2022-23,NCD,Dual,E,High School District,ABCD
+459,Asian,2022-23,NCD,Dual,E,High School District,ABCD
+460,Multi-Ethnicity,2022-23,NCD,Dual,J,High School District,ABCD
+461,White,2022-23,NCD,Dual,F,High School District,ABCD
+462,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+463,White,2022-23,NCD,Dual,N,High School District,ABCD
+464,Filipino,2022-23,NCD,Dual,J,High School District,ABCD
+465,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+466,Unreported,2022-23,NCD,Dual,A,High School District,ABCD
+467,Multi-Ethnicity,2022-23,NCD,Dual,N,High School District,ABCD
+468,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+469,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+470,White,2022-23,NCD,Dual,N,High School District,ABCD
+471,Filipino,2022-23,NCD,Dual,J,High School District,ABCD
+472,African American,2022-23,NCD,Dual,J,High School District,ABCD
+473,Multi-Ethnicity,2022-23,NCD,Dual,K,High School District,ABCD
+474,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+475,Filipino,2022-23,NCD,Dual,J,High School District,ABCD
+476,White,2022-23,NCD,Dual,F,High School District,ABCD
+477,Latinx,2022-23,NCD,Dual,J,High School District,ABCD
+478,Latinx,2022-23,NCD,Dual,F,High School District,ABCD
+479,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+480,Multi-Ethnicity,2022-23,NCD,Dual,J,High School District,ABCD
+481,Multi-Ethnicity,2022-23,NCD,Dual,H,High School District,ABCD
+482,White,2022-23,NCD,Dual,H,High School District,ABCD
+483,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+484,Latinx,2022-23,NCD,Dual,E,High School District,ABCD
+485,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+486,Multi-Ethnicity,2022-23,NCD,Dual,D,High School District,ABCD
+487,Unreported,2022-23,NCD,Dual,G,High School District,ABCD
+488,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+489,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+490,African American,2022-23,NCD,Dual,I ,High School District,ABCD
+491,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+492,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+493,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+494,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+495,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+496,African American,2022-23,NCD,Dual,D,High School District,ABCD
+497,White,2022-23,NCD,Dual,D,High School District,ABCD
+498,Multi-Ethnicity,2022-23,NCD,Dual,J,High School District,ABCD
+499,White,2022-23,NCD,Dual,M,High School District,ABCD
+500,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+501,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+502,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+503,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+504,Latinx,2022-23,NCD,Dual,I ,High School District,ABCD
+505,Unreported,2022-23,NCD,Dual,I ,High School District,ABCD
+506,Filipino,2022-23,NCD,Dual,N,High School District,ABCD
+507,Latinx,2022-23,NCD,Dual,D,High School District,ABCD
+508,African American,2022-23,NCD,Dual,J,High School District,ABCD
+509,White,2022-23,NCD,Dual,B,High School District,ABCD
+510,White,2022-23,NCD,Dual,N,High School District,ABCD
+511,Asian,2022-23,NCD,Dual,J,High School District,ABCD
+512,Latinx,2022-23,NCD,Dual,M,High School District,ABCD
+513,African American,2022-23,NCD,Dual,K,High School District,ABCD
+514,African American,2022-23,NCD,Dual,K,High School District,ABCD
+515,Latinx,2022-23,NCD,Dual,N,High School District,ABCD
+516,Filipino,2022-23,NCD,Dual,K,High School District,ABCD
+517,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+518,Latinx,2021-22,NCD,Dual,F,High School District,ABCD
+519,Filipino,2021-22,NCD,Dual,J,High School District,ABCD
+520,Asian,2021-22,NCD,Dual,J,High School District,ABCD
+521,Asian,2021-22,NCD,Dual,J,High School District,ABCD
+522,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+523,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+524,White,2021-22,NCD,Dual,F,High School District,ABCD
+525,Filipino,2021-22,NCD,Dual,N,High School District,ABCD
+526,Asian,2021-22,NCD,Dual,N,High School District,ABCD
+527,Multi-Ethnicity,2021-22,NCD,Dual,G,High School District,ABCD
+528,White,2021-22,NCD,Dual,D,High School District,ABCD
+529,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+530,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+531,Asian,2021-22,NCD,Dual,J,High School District,ABCD
+532,Latinx,2021-22,NCD,Dual,D,High School District,ABCD
+533,Filipino,2021-22,NCD,Dual,N,High School District,ABCD
+534,White,2021-22,NCD,Dual,F,High School District,ABCD
+535,Asian,2021-22,NCD,Dual,J,High School District,ABCD
+536,White,2021-22,NCD,Dual,N,High School District,ABCD
+537,Multi-Ethnicity,2021-22,NCD,Dual,N,High School District,ABCD
+538,Multi-Ethnicity,2021-22,NCD,Dual,F,High School District,ABCD
+539,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+540,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+541,White,2021-22,NCD,Conc,A,High School District,ABCD
+542,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+543,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+544,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+545,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+546,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+547,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+548,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+549,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+550,Multi-Ethnicity,2021-22,NCD,Dual,K,High School District,ABCD
+551,Multi-Ethnicity,2021-22,NCD,Dual,K,High School District,ABCD
+552,Latinx,2021-22,NCD,Dual,N,High School District,ABCD
+553,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+554,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+555,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+556,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+557,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+558,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+559,African American,2021-22,NCD,Dual,K,High School District,ABCD
+560,African American,2021-22,NCD,Dual,K,High School District,ABCD
+561,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+562,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+563,Latinx,2021-22,NCD,Dual,J,High School District,ABCD
+564,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+565,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+566,Multi-Ethnicity,2021-22,NCD,Dual,K,High School District,ABCD
+567,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+568,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+569,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+570,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+571,Multi-Ethnicity,2021-22,NCD,Dual,K,High School District,ABCD
+572,Multi-Ethnicity,2021-22,NCD,Dual,K,High School District,ABCD
+573,Latinx,2021-22,NCD,Dual,N,High School District,ABCD
+574,White,2021-22,NCD,Dual,B,High School District,ABCD
+575,Asian,2021-22,NCD,Dual,K,High School District,ABCD
+576,Asian,2021-22,NCD,Dual,K,High School District,ABCD
+577,African American,2021-22,NCD,Dual,K,High School District,ABCD
+578,African American,2021-22,NCD,Dual,K,High School District,ABCD
+579,Latinx,2021-22,NCD,Dual,D,High School District,ABCD
+580,Asian,2021-22,NCD,Dual,F,High School District,ABCD
+581,Multi-Ethnicity,2021-22,NCD,Dual,J,High School District,ABCD
+582,Latinx,2021-22,NCD,Dual,N,High School District,ABCD
+583,White,2021-22,NCD,Dual,B,High School District,ABCD
+584,Latinx,2021-22,NCD,Dual,N,High School District,ABCD
+585,Multi-Ethnicity,2021-22,NCD,Dual,N,High School District,ABCD
+586,Latinx,2021-22,NCD,Dual,C,High School District,ABCD
+587,Asian,2021-22,NCD,Dual,J,High School District,ABCD
+588,White,2021-22,NCD,Dual,N,High School District,ABCD
+589,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+590,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+591,Latinx,2021-22,NCD,Dual,M,High School District,ABCD
+592,White,2021-22,NCD,Dual,M,High School District,ABCD
+593,Filipino,2021-22,NCD,Dual,F,High School District,ABCD
+594,White,2021-22,NCD,Dual,F,High School District,ABCD
+595,White,2021-22,NCD,Dual,F,High School District,ABCD
+596,White,2021-22,NCD,Dual,N,High School District,ABCD
+597,Asian,2021-22,NCD,Dual,A,High School District,ABCD
+598,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+599,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+600,White,2021-22,NCD,Dual,F,High School District,ABCD
+601,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+602,African American,2021-22,NCD,Dual,L,High School District,ABCD
+603,African American,2021-22,NCD,Dual,K,High School District,ABCD
+604,African American,2021-22,NCD,Dual,K,High School District,ABCD
+605,Latinx,2021-22,NCD,Conc,G,High School District,ABCD
+606,Latinx,2021-22,NCD,Dual,C,High School District,ABCD
+607,Latinx,2021-22,NCD,Dual,C,High School District,ABCD
+608,White,2021-22,NCD,Dual,F,High School District,ABCD
+609,Multi-Ethnicity,2021-22,NCD,Dual,N,High School District,ABCD
+610,Asian,2021-22,NCD,Dual,K,High School District,ABCD
+611,Asian,2021-22,NCD,Dual,K,High School District,ABCD
+612,Latinx,2021-22,NCD,Dual,C,High School District,ABCD
+613,Asian,2021-22,NCD,Dual,C,High School District,ABCD
+614,Latinx,2021-22,NCD,Dual,C,High School District,ABCD
+615,Latinx,2021-22,NCD,Dual,F,High School District,ABCD
+616,White,2021-22,NCD,Dual,H,High School District,ABCD
+617,White,2021-22,NCD,Dual,D,High School District,ABCD
+618,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+619,Latinx,2021-22,NCD,Dual,M,High School District,ABCD
+620,Latinx,2021-22,NCD,Dual,D,High School District,ABCD
+621,Asian,2021-22,NCD,Dual,J,High School District,ABCD
+622,Latinx,2021-22,NCD,Dual,D,High School District,ABCD
+623,White,2021-22,NCD,Conc,G,High School District,ABCD
+624,Latinx,2021-22,NCD,Dual,E,High School District,ABCD
+625,Latinx,2021-22,NCD,Dual,E,High School District,ABCD
+626,Unreported,2021-22,NCD,Dual,C,High School District,ABCD
+627,Unreported,2021-22,NCD,Dual,C,High School District,ABCD
+628,Latinx,2021-22,NCD,Dual,C,High School District,ABCD
+629,Multi-Ethnicity,2021-22,NCD,Dual,C,High School District,ABCD
+630,Multi-Ethnicity,2021-22,NCD,Dual,C,High School District,ABCD
+631,Multi-Ethnicity,2021-22,NCD,Dual,J,High School District,ABCD
+632,Filipino,2021-22,NCD,Dual,J,High School District,ABCD
+633,White,2021-22,NCD,Dual,G,High School District,ABCD
+634,Asian,2021-22,NCD,Dual,C,High School District,ABCD
+635,Asian,2021-22,NCD,Dual,C,High School District,ABCD
+636,Asian,2021-22,NCD,Conc,G,High School District,ABCD
+637,Latinx,2021-22,NCD,Dual,H,High School District,ABCD
+638,Asian,2021-22,NCD,Dual,G,High School District,ABCD
+639,Latinx,2021-22,NCD,Dual,C,High School District,ABCD
+640,Latinx,2021-22,NCD,Dual,C,High School District,ABCD
+641,White,2021-22,NCD,Conc,C,High School District,ABCD
+642,Multi-Ethnicity,2021-22,NCD,Dual,K,High School District,ABCD
+643,Multi-Ethnicity,2021-22,NCD,Dual,K,High School District,ABCD
+644,White,2021-22,NCD,Conc,C,High School District,ABCD
+645,White,2021-22,NCD,Dual,H,High School District,ABCD
+646,Latinx,2021-22,NCD,Dual,A,High School District,ABCD
+647,Latinx,2021-22,CCAP,Dual,L,High School District,ABCD
+648,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+649,Latinx,2021-22,Concurrent,Conc,E,High School District,ABCD
+650,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+651,Multi-Ethnicity,2021-22,CCAP,Dual,H,High School District,ABCD
+652,Filipino,2021-22,CCAP,Dual,H,High School District,ABCD
+653,Filipino,2021-22,CCAP,Dual,H,High School District,ABCD
+654,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+655,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+656,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+657,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+658,Filipino,2021-22,CCAP,Dual,H,High School District,ABCD
+659,Filipino,2021-22,CCAP,Dual,H,High School District,ABCD
+660,Filipino,2021-22,CCAP,Dual,H,High School District,ABCD
+661,White,2021-22,Concurrent,Conc,D,High School District,ABCD
+662,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+663,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+664,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+665,Latinx,2021-22,CCAP,Dual,I ,High School District,ABCD
+666,Latinx,2021-22,CCAP,Dual,K,High School District,ABCD
+667,Latinx,2021-22,CCAP,Dual,K,High School District,ABCD
+668,Multi-Ethnicity,2021-22,CCAP,Dual,M,High School District,ABCD
+669,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+670,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+671,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+672,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+673,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+674,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+675,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+676,Filipino,2021-22,CCAP,Dual,N,High School District,ABCD
+677,Latinx,2021-22,CCAP,Dual,J,High School District,ABCD
+678,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+679,African American,2021-22,CCAP,Dual,H,High School District,ABCD
+680,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+681,Multi-Ethnicity,2021-22,Concurrent,Conc,I ,High School District,ABCD
+682,Multi-Ethnicity,2021-22,Concurrent,Conc,I ,High School District,ABCD
+683,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+684,Latinx,2021-22,Concurrent,Conc,D,High School District,ABCD
+685,African American,2021-22,CCAP,Dual,D,High School District,ABCD
+686,White,2021-22,CCAP,Dual,J,High School District,ABCD
+687,Filipino,2021-22,CCAP,Dual,J,High School District,ABCD
+688,Asian,2021-22,CCAP,Dual,K,High School District,ABCD
+689,Asian,2021-22,CCAP,Dual,K,High School District,ABCD
+690,African American,2021-22,CCAP,Dual,K,High School District,ABCD
+691,African American,2021-22,CCAP,Dual,K,High School District,ABCD
+692,White,2021-22,CCAP,Dual,D,High School District,ABCD
+693,White,2021-22,CCAP,Dual,I ,High School District,ABCD
+694,White,2021-22,CCAP,Dual,B,High School District,ABCD
+695,Multi-Ethnicity,2021-22,CCAP,Dual,M,High School District,ABCD
+696,Multi-Ethnicity,2021-22,CCAP,Dual,M,High School District,ABCD
+697,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+698,Asian,2021-22,CCAP,Dual,M,High School District,ABCD
+699,Asian,2021-22,CCAP,Dual,M,High School District,ABCD
+700,Filipino,2021-22,CCAP,Dual,N,High School District,ABCD
+701,White,2021-22,CCAP,Dual,B,High School District,ABCD
+702,Latinx,2021-22,CCAP,Dual,E,High School District,ABCD
+703,Latinx,2021-22,CCAP,Dual,E,High School District,ABCD
+704,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+705,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+706,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+707,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+708,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+709,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+710,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+711,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+712,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+713,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+714,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+715,Multi-Ethnicity,2021-22,Concurrent,Conc,N,High School District,ABCD
+716,White,2021-22,CCAP,Dual,M,High School District,ABCD
+717,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+718,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+719,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+720,African American,2021-22,CCAP,Dual,H,High School District,ABCD
+721,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+722,White,2021-22,CCAP,Dual,H,High School District,ABCD
+723,Latinx,2021-22,CCAP,Dual,N,High School District,ABCD
+724,White,2021-22,CCAP,Dual,N,High School District,ABCD
+725,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+726,Multi-Ethnicity,2021-22,CCAP,Dual,B,High School District,ABCD
+727,Filipino,2021-22,CCAP,Dual,J,High School District,ABCD
+728,White,2021-22,CCAP,Dual,B,High School District,ABCD
+729,White,2021-22,CCAP,Dual,H,High School District,ABCD
+730,White,2021-22,CCAP,Dual,H,High School District,ABCD
+731,Latinx,2021-22,CCAP,Dual,M,High School District,ABCD
+732,White,2021-22,CCAP,Dual,I ,High School District,ABCD
+733,Latinx,2021-22,CCAP,Dual,J,High School District,ABCD
+734,Multi-Ethnicity,2021-22,CCAP,Dual,N,High School District,ABCD
+735,Latinx,2021-22,CCAP,Dual,M,High School District,ABCD
+736,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+737,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+738,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+739,White,2021-22,CCAP,Dual,A,High School District,ABCD
+740,Multi-Ethnicity,2021-22,CCAP,Dual,B,High School District,ABCD
+741,Asian,2021-22,CCAP,Dual,B,High School District,ABCD
+742,Multi-Ethnicity,2021-22,CCAP,Dual,G,High School District,ABCD
+743,White,2021-22,Concurrent,Conc,A,High School District,ABCD
+744,African American,2021-22,CCAP,Dual,F,High School District,ABCD
+745,Latinx,2021-22,CCAP,Dual,F,High School District,ABCD
+746,Asian,2021-22,CCAP,Dual,F,High School District,ABCD
+747,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+748,Latinx,2021-22,CCAP,Dual,G,High School District,ABCD
+749,White,2021-22,CCAP,Dual,J,High School District,ABCD
+750,Latinx,2021-22,CCAP,Dual,G,High School District,ABCD
+751,White,2021-22,CCAP,Dual,F,High School District,ABCD
+752,Latinx,2021-22,Concurrent,Conc,G,High School District,ABCD
+753,Multi-Ethnicity,2021-22,CCAP,Dual,N,High School District,ABCD
+754,White,2021-22,CCAP,Dual,H,High School District,ABCD
+755,Filipino,2021-22,CCAP,Dual,N,High School District,ABCD
+756,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+757,Multi-Ethnicity,2021-22,CCAP,Dual,B,High School District,ABCD
+758,White,2021-22,CCAP,Dual,H,High School District,ABCD
+759,Latinx,2021-22,CCAP,Dual,A,High School District,ABCD
+760,White,2021-22,CCAP,Dual,A,High School District,ABCD
+761,Latinx,2021-22,CCAP,Dual,G,High School District,ABCD
+762,Latinx,2021-22,CCAP,Dual,K,High School District,ABCD
+763,Latinx,2021-22,CCAP,Dual,K,High School District,ABCD
+764,Asian,2021-22,CCAP,Dual,F,High School District,ABCD
+765,White,2021-22,CCAP,Dual,F,High School District,ABCD
+766,Latinx,2021-22,Concurrent,Conc,G,High School District,ABCD
+767,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+768,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+769,White,2021-22,CCAP,Dual,J,High School District,ABCD
+770,Latinx,2021-22,CCAP,Dual,J,High School District,ABCD
+771,White,2021-22,CCAP,Dual,G,High School District,ABCD
+772,African American,2021-22,CCAP,Dual,J,High School District,ABCD
+773,Latinx,2021-22,CCAP,Dual,G,High School District,ABCD
+774,Latinx,2021-22,CCAP,Dual,G,High School District,ABCD
+775,White,2021-22,CCAP,Dual,H,High School District,ABCD
+776,White,2021-22,CCAP,Dual,H,High School District,ABCD
+777,White,2021-22,NCD,Dual,H,High School District,ABCD
+778,Multi-Ethnicity,2021-22,NCD,Dual,H,High School District,ABCD
+779,Latinx,2021-22,NCD,Dual,D,High School District,ABCD
+780,Asian,2021-22,NCD,Dual,H,High School District,ABCD
+781,White,2021-22,NCD,Dual,H,High School District,ABCD
+782,Latinx,2021-22,NCD,Dual,A,High School District,ABCD
+783,Filipino,2021-22,NCD,Dual,H,High School District,ABCD
+784,Multi-Ethnicity,2021-22,NCD,Dual,J,High School District,ABCD
+785,White,2021-22,NCD,Dual,H,High School District,ABCD
+786,White,2021-22,NCD,Dual,H,High School District,ABCD
+787,Multi-Ethnicity,2021-22,NCD,Dual,H,High School District,ABCD
+788,Asian,2021-22,NCD,Dual,J,High School District,ABCD
+789,Latinx,2021-22,NCD,Dual,F,High School District,ABCD
+790,Asian,2021-22,NCD,Dual,H,High School District,ABCD
+791,Asian,2021-22,NCD,Dual,H,High School District,ABCD
+792,White,2021-22,NCD,Dual,G,High School District,ABCD
+793,White,2021-22,NCD,Dual,B,High School District,ABCD
+794,Latinx,2021-22,NCD,Dual,J,High School District,ABCD
+795,White,2021-22,NCD,Dual,N,High School District,ABCD
+796,Asian,2021-22,NCD,Dual,B,High School District,ABCD
+797,White,2021-22,NCD,Dual,H,High School District,ABCD
+798,White,2021-22,NCD,Dual,B,High School District,ABCD
+799,White,2021-22,NCD,Dual,H,High School District,ABCD
+800,White,2021-22,NCD,Dual,L,High School District,ABCD
+801,Asian,2021-22,NCD,Dual,H,High School District,ABCD
+802,Multi-Ethnicity,2021-22,NCD,Dual,H,High School District,ABCD
+803,Filipino,2021-22,NCD,Dual,B,High School District,ABCD
+804,Asian,2021-22,NCD,Dual,H,High School District,ABCD
+805,Multi-Ethnicity,2021-22,NCD,Dual,H,High School District,ABCD
+806,White,2021-22,NCD,Dual,J,High School District,ABCD
+807,White,2021-22,NCD,Dual,B,High School District,ABCD
+808,Latinx,2021-22,NCD,Dual,D,High School District,ABCD
+809,Latinx,2021-22,NCD,Dual,N,High School District,ABCD
+810,Multi-Ethnicity,2021-22,NCD,Dual,H,High School District,ABCD
+811,Asian,2021-22,NCD,Dual,H,High School District,ABCD
+812,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+813,Latinx,2021-22,NCD,Dual,K,High School District,ABCD
+814,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+815,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+816,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+817,White,2021-22,CCAP,Dual,H,High School District,ABCD
+818,White,2021-22,CCAP,Dual,A,High School District,ABCD
+819,African American,2021-22,CCAP,Dual,E,High School District,ABCD
+820,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+821,Latinx,2021-22,CCAP,Dual,F,High School District,ABCD
+822,Filipino,2021-22,CCAP,Dual,B,High School District,ABCD
+823,Latinx,2021-22,CCAP,Dual,K,High School District,ABCD
+824,White,2021-22,CCAP,Dual,H,High School District,ABCD
+825,Latinx,2021-22,CCAP,Dual,E,High School District,ABCD
+826,Latinx,2021-22,CCAP,Dual,E,High School District,ABCD
+827,Latinx,2021-22,CCAP,Dual,L,High School District,ABCD
+828,White,2021-22,CCAP,Dual,E,High School District,ABCD
+829,White,2021-22,CCAP,Dual,H,High School District,ABCD
+830,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+831,White,2021-22,CCAP,Dual,H,High School District,ABCD
+832,Multi-Ethnicity,2021-22,CCAP,Dual,K,High School District,ABCD
+833,White,2021-22,CCAP,Dual,H,High School District,ABCD
+834,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+835,White,2021-22,CCAP,Dual,F,High School District,ABCD
+836,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+837,African American,2021-22,CCAP,Dual,H,High School District,ABCD
+838,Filipino,2021-22,CCAP,Dual,N,High School District,ABCD
+839,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+840,Latinx,2021-22,CCAP,Dual,K,High School District,ABCD
+841,Latinx,2021-22,CCAP,Dual,B,High School District,ABCD
+842,Latinx,2021-22,CCAP,Dual,J,High School District,ABCD
+843,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+844,White,2021-22,CCAP,Dual,H,High School District,ABCD
+845,Multi-Ethnicity,2021-22,CCAP,Dual,J,High School District,ABCD
+846,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+847,White,2021-22,CCAP,Dual,H,High School District,ABCD
+848,White,2021-22,CCAP,Dual,H,High School District,ABCD
+849,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+850,White,2021-22,CCAP,Dual,H,High School District,ABCD
+851,Unreported,2021-22,CCAP,Dual,H,High School District,ABCD
+852,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+853,African American,2021-22,CCAP,Dual,F,High School District,ABCD
+854,Asian,2021-22,CCAP,Dual,B,High School District,ABCD
+855,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+856,White,2021-22,CCAP,Dual,H,High School District,ABCD
+857,Multi-Ethnicity,2021-22,CCAP,Dual,M,High School District,ABCD
+858,White,2021-22,CCAP,Dual,F,High School District,ABCD
+859,White,2021-22,CCAP,Dual,A,High School District,ABCD
+860,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+861,Latinx,2021-22,CCAP,Dual,N,High School District,ABCD
+862,White,2021-22,CCAP,Dual,A,High School District,ABCD
+863,White,2021-22,CCAP,Dual,H,High School District,ABCD
+864,White,2021-22,CCAP,Dual,A,High School District,ABCD
+865,Latinx,2021-22,CCAP,Dual,E,High School District,ABCD
+866,Latinx,2021-22,NCD,Dual,E,High School District,ABCD
+867,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+868,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+869,Multi-Ethnicity,2021-22,NCD,Dual,H,High School District,ABCD
+870,Multi-Ethnicity,2021-22,NCD,Dual,L,High School District,ABCD
+871,Filipino,2021-22,NCD,Dual,F,High School District,ABCD
+872,White,2021-22,NCD,Dual,F,High School District,ABCD
+873,African American,2021-22,NCD,Dual,F,High School District,ABCD
+874,Latinx,2021-22,NCD,Dual,F,High School District,ABCD
+875,African American,2021-22,NCD,Dual,N,High School District,ABCD
+876,White,2021-22,NCD,Dual,H,High School District,ABCD
+877,Multi-Ethnicity,2021-22,NCD,Dual,J,High School District,ABCD
+878,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+879,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+880,Latinx,2021-22,NCD,Dual,H,High School District,ABCD
+881,White,2021-22,NCD,Dual,H,High School District,ABCD
+882,Asian,2021-22,NCD,Dual,J,High School District,ABCD
+883,Latinx,2021-22,NCD,Dual,J,High School District,ABCD
+884,Latinx,2021-22,NCD,Dual,A,High School District,ABCD
+885,Latinx,2021-22,NCD,Dual,N,High School District,ABCD
+886,White,2021-22,NCD,Dual,H,High School District,ABCD
+887,White,2021-22,NCD,Dual,H,High School District,ABCD
+888,Filipino,2021-22,NCD,Dual,K,High School District,ABCD
+889,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+890,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+891,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+892,Filipino,2021-22,CCAP,Dual,N,High School District,ABCD
+893,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+894,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+895,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+896,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+897,Asian,2021-22,CCAP,Dual,D,High School District,ABCD
+898,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+899,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+900,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+901,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+902,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+903,African American,2021-22,CCAP,Dual,D,High School District,ABCD
+904,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+905,White,2021-22,CCAP,Dual,D,High School District,ABCD
+906,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+907,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+908,White,2021-22,CCAP,Dual,H,High School District,ABCD
+909,Latinx,2021-22,CCAP,Dual,K,High School District,ABCD
+910,Latinx,2021-22,CCAP,Dual,K,High School District,ABCD
+911,Latinx,2021-22,CCAP,Dual,F,High School District,ABCD
+912,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+913,Asian,2021-22,CCAP,Dual,C,High School District,ABCD
+914,Asian,2021-22,CCAP,Dual,C,High School District,ABCD
+915,Multi-Ethnicity,2021-22,CCAP,Dual,C,High School District,ABCD
+916,Multi-Ethnicity,2021-22,CCAP,Dual,C,High School District,ABCD
+917,Latinx,2021-22,CCAP,Dual,C,High School District,ABCD
+918,Latinx,2021-22,CCAP,Dual,C,High School District,ABCD
+919,White,2021-22,CCAP,Dual,H,High School District,ABCD
+920,Multi-Ethnicity,2021-22,CCAP,Dual,N,High School District,ABCD
+921,White,2021-22,CCAP,Dual,J,High School District,ABCD
+922,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+923,White,2021-22,CCAP,Dual,H,High School District,ABCD
+924,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+925,White,2021-22,CCAP,Dual,B,High School District,ABCD
+926,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+927,Asian,2021-22,CCAP,Dual,H,High School District,ABCD
+928,White,2021-22,CCAP,Dual,N,High School District,ABCD
+929,Asian,2021-22,CCAP,Dual,A,High School District,ABCD
+930,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+931,Latinx,2021-22,CCAP,Dual,N,High School District,ABCD
+932,Multi-Ethnicity,2021-22,CCAP,Dual,K,High School District,ABCD
+933,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+934,Latinx,2021-22,CCAP,Dual,D,High School District,ABCD
+935,Filipino,2021-22,CCAP,Dual,N,High School District,ABCD
+936,Latinx,2021-22,CCAP,Dual,H,High School District,ABCD
+937,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+938,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+939,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+940,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+941,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+942,Filipino,2021-22,CCAP,Dual,J,High School District,ABCD
+943,Latinx,2021-22,CCAP,Dual,J,High School District,ABCD
+944,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+945,Latinx,2021-22,CCAP,Dual,J,High School District,ABCD
+946,Asian,2021-22,CCAP,Dual,J,High School District,ABCD
+947,Latinx,2021-22,CCAP,Dual,F,High School District,ABCD
+948,Filipino,2021-22,CCAP,Dual,K,High School District,ABCD
+949,White,2021-22,CCAP,Dual,F,High School District,ABCD
+950,White,2021-22,CCAP,Dual,A,High School District,ABCD
+951,Latinx,2021-22,CCAP,Dual,A,High School District,ABCD
+952,White,2021-22,CCAP,Dual,A,High School District,ABCD
+953,Latinx,2021-22,CCAP,Dual,A,High School District,ABCD
+954,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+955,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+956,Latinx,2023-24,CCAP,Dual,F,High School District,ABCD
+957,White,2023-24,CCAP,Dual,H,High School District,ABCD
+958,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+959,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+960,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+961,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+962,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+963,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+964,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+965,Multi-Ethnicity,2023-24,CCAP,Dual,N,High School District,ABCD
+966,Multi-Ethnicity,2023-24,CCAP,Dual,F,High School District,ABCD
+967,Filipino,2023-24,CCAP,Dual,N,High School District,ABCD
+968,Multi-Ethnicity,2023-24,CCAP,Dual,K,High School District,ABCD
+969,Multi-Ethnicity,2023-24,CCAP,Dual,K,High School District,ABCD
+970,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+971,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+972,African American,2023-24,CCAP,Dual,F,High School District,ABCD
+973,African American,2023-24,CCAP,Dual,F,High School District,ABCD
+974,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+975,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+976,African American,2023-24,CCAP,Dual,K,High School District,ABCD
+977,African American,2023-24,CCAP,Dual,K,High School District,ABCD
+978,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+979,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+980,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+981,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+982,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+983,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+984,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+985,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+986,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+987,Asian,2023-24,CCAP,Dual,K,High School District,ABCD
+988,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+989,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+990,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+991,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+992,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+993,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+994,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+995,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+996,African American,2023-24,CCAP,Dual,K,High School District,ABCD
+997,African American,2023-24,CCAP,Dual,K,High School District,ABCD
+998,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+999,Latinx,2023-24,CCAP,Dual,K,High School District,ABCD
+1000,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1001,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1002,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1003,Filipino,2023-24,CCAP,Dual,N,High School District,ABCD
+1004,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1005,Filipino,2023-24,CCAP,Dual,H,High School District,ABCD
+1006,White,2023-24,CCAP,Dual,L,High School District,ABCD
+1007,White,2023-24,CCAP,Dual,L,High School District,ABCD
+1008,White,2023-24,CCAP,Dual,L,High School District,ABCD
+1009,African American,2023-24,CCAP,Dual,L,High School District,ABCD
+1010,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+1011,Pacific Islander,2023-24,CCAP,Dual,L,High School District,ABCD
+1012,African American,2023-24,CCAP,Dual,H,High School District,ABCD
+1013,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1014,Multi-Ethnicity,2023-24,CCAP,Dual,N,High School District,ABCD
+1015,Latinx,2023-24,CCAP,Dual,F,High School District,ABCD
+1016,Latinx,2023-24,CCAP,Dual,N,High School District,ABCD
+1017,White,2023-24,CCAP,Dual,B,High School District,ABCD
+1018,Filipino,2023-24,CCAP,Dual,N,High School District,ABCD
+1019,Latinx,2023-24,CCAP,Dual,B,High School District,ABCD
+1020,White,2023-24,CCAP,Dual,F,High School District,ABCD
+1021,African American,2023-24,CCAP,Dual,B,High School District,ABCD
+1022,Latinx,2023-24,CCAP,Dual,B,High School District,ABCD
+1023,Latinx,2023-24,CCAP,Dual,M,High School District,ABCD
+1024,African American,2023-24,CCAP,Dual,M,High School District,ABCD
+1025,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1026,Multi-Ethnicity,2023-24,CCAP,Dual,F,High School District,ABCD
+1027,Latinx,2023-24,CCAP,Dual,N,High School District,ABCD
+1028,Latinx,2023-24,CCAP,Dual,N,High School District,ABCD
+1029,Latinx,2023-24,CCAP,Dual,F,High School District,ABCD
+1030,African American,2023-24,CCAP,Dual,F,High School District,ABCD
+1031,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1032,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1033,Latinx,2023-24,CCAP,Dual,M,High School District,ABCD
+1034,Multi-Ethnicity,2023-24,CCAP,Dual,L,High School District,ABCD
+1035,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+1036,Asian,2023-24,CCAP,Dual,M,High School District,ABCD
+1037,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+1038,Latinx,2023-24,CCAP,Dual,C,High School District,ABCD
+1039,Latinx,2023-24,CCAP,Dual,C,High School District,ABCD
+1040,Asian,2023-24,CCAP,Dual,M,High School District,ABCD
+1041,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1042,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+1043,Multi-Ethnicity,2023-24,CCAP,Dual,H,High School District,ABCD
+1044,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1045,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1046,White,2023-24,CCAP,Dual,B,High School District,ABCD
+1047,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1048,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1049,Filipino,2023-24,CCAP,Dual,H,High School District,ABCD
+1050,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1051,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1052,Multi-Ethnicity,2023-24,CCAP,Dual,F,High School District,ABCD
+1053,Multi-Ethnicity,2023-24,CCAP,Dual,H,High School District,ABCD
+1054,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1055,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1056,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1057,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1058,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1059,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+1060,Multi-Ethnicity,2023-24,CCAP,Dual,H,High School District,ABCD
+1061,White,2023-24,Concurrent,Conc,C,High School District,ABCD
+1062,White,2023-24,Concurrent,Conc,K,High School District,ABCD
+1063,African American,2023-24,CCAP,Dual,F,High School District,ABCD
+1064,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+1065,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+1066,White,2023-24,Concurrent,Conc,A,High School District,ABCD
+1067,Asian,2023-24,CCAP,Dual,C,High School District,ABCD
+1068,Asian,2023-24,CCAP,Dual,C,High School District,ABCD
+1069,Latinx,2023-24,Concurrent,Conc,L,High School District,ABCD
+1070,Latinx,2023-24,Concurrent,Conc,M,High School District,ABCD
+1071,White,2023-24,CCAP,Dual,F,High School District,ABCD
+1072,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1073,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1074,Filipino,2023-24,CCAP,Dual,K,High School District,ABCD
+1075,Asian,2023-24,Concurrent,Conc,N,High School District,ABCD
+1076,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1077,White,2023-24,CCAP,Dual,H,High School District,ABCD
+1078,White,2023-24,CCAP,Dual,F,High School District,ABCD
+1079,Multi-Ethnicity,2023-24,CCAP,Dual,H,High School District,ABCD
+1080,White,2023-24,CCAP,Dual,F,High School District,ABCD
+1081,Latinx,2023-24,CCAP,Dual,A,High School District,ABCD
+1082,White,2023-24,CCAP,Dual,A,High School District,ABCD
+1083,Asian,2023-24,Concurrent,Conc,A,High School District,ABCD
+1084,Latinx,2023-24,CCAP,Dual,D,High School District,ABCD
+1085,Multi-Ethnicity,2023-24,CCAP,Dual,D,High School District,ABCD
+1086,Latinx,2023-24,Concurrent,Conc,H,High School District,ABCD
+1087,Latinx,2023-24,Concurrent,Conc,H,High School District,ABCD
+1088,Multi-Ethnicity,2023-24,CCAP,Dual,G,High School District,ABCD
+1089,Multi-Ethnicity,2023-24,CCAP,Dual,G,High School District,ABCD
+1090,White,2023-24,CCAP,Dual,G,High School District,ABCD
+1091,Latinx,2023-24,CCAP,Dual,G,High School District,ABCD
+1092,White,2023-24,CCAP,Dual,L,High School District,ABCD
+1093,White,2023-24,CCAP,Dual,G,High School District,ABCD
+1094,Latinx,2023-24,CCAP,Dual,G,High School District,ABCD
+1095,Latinx,2023-24,CCAP,Dual,G,High School District,ABCD
+1096,Latinx,2023-24,CCAP,Dual,G,High School District,ABCD
+1097,Multi-Ethnicity,2023-24,CCAP,Dual,G,High School District,ABCD
+1098,Native American,2023-24,CCAP,Dual,G,High School District,ABCD
+1099,White,2023-24,CCAP,Dual,G,High School District,ABCD
+1100,White,2023-24,Concurrent,Conc,I ,High School District,ABCD
+1101,African American,2023-24,CCAP,Dual,G,High School District,ABCD
+1102,White,2023-24,CCAP,Dual,N,High School District,ABCD
+1103,Multi-Ethnicity,2023-24,Concurrent,Conc,C,High School District,ABCD
+1104,White,2023-24,Concurrent,Conc,B,High School District,ABCD
+1105,White,2023-24,Concurrent,Conc,B,High School District,ABCD
+1106,White,2023-24,Concurrent,Conc,K,High School District,ABCD
+1107,White,2023-24,Concurrent,Conc,K,High School District,ABCD
+1108,Unreported,2023-24,Concurrent,Conc,C,High School District,ABCD
+1109,White,2023-24,CCAP,Dual,G,High School District,ABCD
+1110,Latinx,2023-24,Concurrent,Conc,D,High School District,ABCD
+1111,Latinx,2023-24,Concurrent,Conc,D,High School District,ABCD
+1112,White,2023-24,CCAP,Dual,D,High School District,ABCD
+1113,Latinx,2023-24,CCAP,Dual,L,High School District,ABCD
+1114,White,2023-24,CCAP,Dual,J,High School District,ABCD
+1115,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1116,Asian,2023-24,CCAP,Dual,H,High School District,ABCD
+1117,Filipino,2023-24,CCAP,Dual,H,High School District,ABCD
+1118,Filipino,2023-24,CCAP,Dual,H,High School District,ABCD
+1119,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1120,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1121,Filipino,2023-24,CCAP,Dual,H,High School District,ABCD
+1122,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1123,Filipino,2023-24,CCAP,Dual,H,High School District,ABCD
+1124,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1125,Latinx,2023-24,CCAP,Dual,D,High School District,ABCD
+1126,White,2023-24,CCAP,Dual,G,High School District,ABCD
+1127,White,2023-24,CCAP,Dual,G,High School District,ABCD
+1128,Latinx,2023-24,CCAP,Dual,H,High School District,ABCD
+1129,White,2023-24,CCAP,Dual,L,High School District,ABCD
+1130,Multi-Ethnicity,2023-24,CCAP,Dual,D,High School District,ABCD
+1131,Pacific Islander,2023-24,CCAP,Dual,D,High School District,ABCD
+1132,Latinx,2023-24,CCAP,Dual,D,High School District,ABCD
+1133,White,2023-24,CCAP,Dual,J,High School District,ABCD
+1134,Asian,2023-24,CCAP,Dual,J,High School District,ABCD
+1135,Multi-Ethnicity,2023-24,CCAP,Dual,D,High School District,ABCD
+1136,African American,2023-24,CCAP,Dual,J,High School District,ABCD
+1137,African American,2023-24,CCAP,Dual,D,High School District,ABCD
+1138,Latinx,2023-24,CCAP,Dual,I ,High School District,ABCD

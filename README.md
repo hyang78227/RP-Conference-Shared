@@ -82,8 +82,11 @@ RP-Conference-Share/
 ### RP_SpecialAdmit_Headcount_combined_call.ipynb
 - [RP_SpecialAdmit_Headcount_combined_Call.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined_Call.ipynb)
  
-  This Python script automates the execution of the other two notebooks. It runs both the RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb scripts in 
-  sequence to automate the data processing pipeline.  
+  This Python script automates the execution of the other two notebooks. It runs both
+  - [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)b and
+  - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)
+  in sequence to automate the data processing pipeline.
+
   **Automates the data processing pipeline by:**
   - Executing RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb sequentially.
   - Ensures all data is processed in the correct order.

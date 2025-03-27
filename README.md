@@ -64,7 +64,10 @@ This notebook processes data related to special admit headcounts by high school.
 
 ### RPSpecialAdmit_Headcount_combined.ipynb
 - [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)
-  
+
+  This script aggregates and combines headcount data from multiple sources and prepares it for further analysis and reporting.
+
+  **Processes special admit headcount data across all high school, including:**
 - **Input:**  
   - Raw Special Admit Foundation data in CSV format  
   - Processed headcount data from [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)  

@@ -19,6 +19,37 @@ This project contains multiple Python scripts for processing and analyzing stude
 - [Requirements](requirements.txt)
 - [License](LICENSE)
 
+## Folder Structure
+
+```plaintext
+RP-Conference-Share/
+│
+├── Example/
+│   ├── Input Data/
+│   │   └── Special Admit Foundation_sample.csv
+│   │
+│   ├── Notebook/
+│   │   ├── Sample_SpecialAdmit_Headcount_by_Highschool.ipynb
+│   │   ├── Sample_SpecialAdmit_Headcount_combined.ipynb
+│   │   └── Sample_SpecialAdmit_Headcount_combined_Call.ipynb
+│   │
+│   └── Output Data/
+│       ├── Special Admit Heaadcount_by_HighSchool.xlsx
+│       └── Special Admit Heaadcount_combined.xlsx
+│
+├── Notebook/
+│   ├── RP_Make_SpecialAdmit_Demos.ipynb
+│   ├── RP_SpecialAdmit_Headcount_by_HighSchool.ipynb
+│   ├── RP_SpecialAdmit_Headcount_combined.ipynb
+│   └── RP_SpecialAdmit_Headcount_combined_Call.ipynb
+│
+├── .gitignore
+├── Code Of Conduct.md
+├── Contributing.md
+├── LICENSE
+├── README.md
+└── requirements.txt
+
 ## File Descriptions
 
 ### RP_SpecialAdmit_Headcount_by_HighSchool.ipynb

@@ -55,9 +55,9 @@ RP-Conference-Share/
 ### RP_SpecialAdmit_Headcount_by_HighSchool.ipynb
 - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)
  
-This notebook processes data related to special admit headcounts by high school. It includes data cleaning, filtering, and generating headcount statistics for each high school. 
+  This notebook processes data related to special admit headcounts by high school. It includes data cleaning, filtering, and generating headcount statistics for each high school. 
 
-**Processes special admit headcount data by high school, including:**
+  **Processes special admit headcount data by high school, including:**
 - **Input:** Raw Special Admit Foundation data in CSV format.
 - **Steps:** Data cleaning, filtering, and aggregating headcount statistics.
 - **Output:** A processed dataset in Excel format, summarizing headcounts for each high school.

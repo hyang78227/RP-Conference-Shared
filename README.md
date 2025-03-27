@@ -86,15 +86,11 @@ RP-Conference-Share/
   
   **=====!!! THIS IS THE ONLY PYTHON FILE YOU NEED TO RUN !!!=====**  
 
-  It runs both:  
+  It Automates the data processing pipeline by executingruns both:  
   - [RP_SpecialAdmit_Headcount_combined.ipynb](Notebook/RP_SpecialAdmit_Headcount_combined.ipynb)  
   - [RP_SpecialAdmit_Headcount_by_HighSchool.ipynb](Notebook/RP_SpecialAdmit_Headcount_by_HighSchool.ipynb)  
 
-  in sequence to automate the data processing pipeline.
-
-  **Automates the data processing pipeline by:**
-  - Executing RP_SpecialAdmit_Headcount_by_HighSchool.ipynb and RPSpecialAdmit_Headcount_combined.ipynb sequentially.
-  - Ensures all data is processed in the correct order.
+  in sequence to automate the data processing pipeline and to ensures all data is processed in the correct order.
 
 ### CDE_Data_Processing_Script.ipynb
 - [RP_Make_SpecialAdmit_Demos.ipynb](Notebook/RP_Make_SpecialAdmit_Demos.ipynb)

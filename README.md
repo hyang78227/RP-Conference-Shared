@@ -35,8 +35,8 @@ RP-Conference-Share/
 │   │   └── Sample_SpecialAdmit_Headcount_combined_Call.ipynb
 │   │
 │   └── Output Data/
-│       ├── Special Admit Heaadcount_by_HighSchool.xlsx
-│       ├── Special Admit Heaadcount_combined.xlsx
+│       ├── Special Admit Headcount_by_HighSchool.xlsx
+│       ├── Special Admit Headcount_combined.xlsx
 │       └── SpecialAdmit_Demos.xlsx
 │
 ├── Notebook/

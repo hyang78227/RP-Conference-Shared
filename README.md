@@ -26,7 +26,8 @@ RP-Conference-Share/
 │
 ├── Example/
 │   ├── Input Data/
-│   │   └── Special Admit Foundation_sample.csv
+│   │   ├── Special Admit Foundation_sample.csv
+│   │   └── Sample_SpecialAdmit_Demos.md
 │   │
 │   ├── Notebook/
 │   │   ├── Sample_SpecialAdmit_Headcount_by_Highschool.ipynb
@@ -35,7 +36,8 @@ RP-Conference-Share/
 │   │
 │   └── Output Data/
 │       ├── Special Admit Heaadcount_by_HighSchool.xlsx
-│       └── Special Admit Heaadcount_combined.xlsx
+│       ├── Special Admit Heaadcount_combined.xlsx
+│       └── SpecialAdmit_Demos.xlsx
 │
 ├── Notebook/
 │   ├── RP_Make_SpecialAdmit_Demos.ipynb

@@ -27,7 +27,7 @@ RP-Conference-Share/
 ├── Example/
 │   ├── Input Data/
 │   │   ├── Special Admit Foundation_sample.csv
-│   │   └── Sample_SpecialAdmit_Demos.md
+│   │   └── Census Day Enrollment(CDE) Data.md
 │   │
 │   ├── Notebook/
 │   │   ├── Sample_SpecialAdmit_Headcount_by_Highschool.ipynb

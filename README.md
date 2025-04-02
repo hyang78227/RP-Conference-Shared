@@ -30,7 +30,7 @@ RP-Conference-Share/
 │   │   └── Census Day Enrollment(CDE) Data.md
 │   │
 │   ├── Notebook/
-│   │   ├── Produce college headcount data (Generate Sample Numerator)/
+│   │   ├── Produce college headcount data (Generate Sample Numerator)
 │   │   │   ├── Sample_SpecialAdmit_Headcount_by_Highschool.ipynb
 │   │   │   ├── Sample_SpecialAdmit_Headcount_combined.ipynb
 │   │   │   └── Sample_SpecialAdmit_Headcount_combined_Call.ipynb
@@ -41,7 +41,7 @@ RP-Conference-Share/
 │       └── SpecialAdmit_Demos.xlsx
 │
 ├── Notebook/
-│   ├── Produce college headcount data (Generate Actual Data)/
+│   ├── Produce college headcount data (Generate Actual Data)
 │   │   ├── RP_Make_SpecialAdmit_Demos.ipynb (denominator)
 │   │   ├── RP_SpecialAdmit_Headcount_by_HighSchool.ipynb
 │   │   ├── RP_SpecialAdmit_Headcount_combined.ipynb
